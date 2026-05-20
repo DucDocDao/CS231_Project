@@ -1,2 +1,1 @@
-# CS231_Project
-
+# Đối với phương pháp MediaPipe + LSTM, vì sử dụng API `mediapipe.solutions`, hiện không còn được hỗ trợ đầy đủ trên các phiên bản Python mới nên đảm bảo khả năng tương thích và hoạt động ổn định, cần cài đặt phiên bản Python < 3.10 và phiên bản các thư viện được liệt kê trong requirements.txt
