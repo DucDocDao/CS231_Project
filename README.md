@@ -1,1 +1,2 @@
-# Đối với phương pháp MediaPipe + LSTM, vì sử dụng API `mediapipe.solutions`, hiện không còn được hỗ trợ đầy đủ trên các phiên bản Python mới nên đảm bảo khả năng tương thích và hoạt động ổn định, cần cài đặt phiên bản Python < 3.10 và phiên bản các thư viện được liệt kê trong requirements.txt
+* Đối với phương pháp **MediaPipe + LSTM**, vì sử dụng API `mediapipe.solutions`, hiện không còn được hỗ trợ đầy đủ trên các phiên bản Python mới. Để đảm bảo khả năng tương thích và hoạt động ổn định, cần cài đặt phiên bản Python < 3.10 và phiên bản các thư viện được liệt kê trong requirements.txt.
+* Đối với phương pháp **ResNet3D_18**, đã có bổ sung thêm kết quả train mới để so sánh với kết quả cũ.
